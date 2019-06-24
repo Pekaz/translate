@@ -30,4 +30,17 @@ May 31, 2019
 전환점이 될 것입니다.(This would represent a notable turn for services so strongly identified 
 with public, comparable and newly valuable numbers. 이 문장 잘 모르겠어요 ..)
 그런데, 그들의 해결책이 이렇다면, 도대체 문제가 무엇이라고 생각했을까 라는 의문점 또한 들게 합니다.
+
+### 건전한 공개의 위협, 인플루언서
+(Influence as Public Health Crisis 인데 ..잘 모르게써요 ㅠㅠ)
+Mosseri씨는 F8에서 "우리는 인스타그램이 일종의 대회처럼 느껴지길 바라지 않습니다." 라고 말했습니다.
+그는 인스타그램이 "압박감을 덜 받는 느낌을 받는 공간"이 되었으면 한다고 바랬습니다. Dorsey가 표현하길
+트위터의 딜레마는 "독성"이었는데, 만약 큰 숫자들이 잘못된 것에 대해 "인센티브"를 제공하지 않는다면 
+감소될 수 있다고 생각했습니다. (Mr. Dorsey’s word for Twitter’s dilemma was “toxicity,” 
+which he thought could be decreased if big, bold numbers weren’t providing 
+“incentives” for the wrong things. 이 문장도 모호하네요ㅠㅠ) 유튜브는 이러한 변화가 단순히
+숫자가 일관되게 표시하는 문제라고 말했습니다. 그러나 최근 몇 달을 보면 이 회사는 크리에이터들의 수를
+늘리는 것, 줄이는 것, 경쟁하는 것등 소모적이고 공공연한 불화등을 중심적으로 다루어 왔습니다.
+
+인스타그램이 "압박감"을 줄 수 있고 불안한 상태를 유발한다는건 논란의 여지가 없습니다. 심지어 트위터의
 ```
