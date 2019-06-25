@@ -65,5 +65,8 @@ which he thought could be decreased if big, bold numbers weren’t providing
 인스타그램이 성장하지 않거나 사람들이 사용하지 않는게 아니라 아마도 그들이 이것을 사용해야 할 때 덜 사용하는
 것이다.
 (이부분도 문단체로 어렵네요 ..
-The real problem, from Instagram’s perspective, is the kind of thing you might worry about if you were clearly “incentivized” by metrics of an internal, top-level variety: not that Instagram isn’t growing, or that people aren’t using it, but that maybe they’re using one part of it less, when they should be using all of it more.)
+The real problem, from Instagram’s perspective, is the kind of thing you might worry 
+about if you were clearly “incentivized” by metrics of an internal, top-level variety: 
+not that Instagram isn’t growing, or that people aren’t using it, but that maybe they’re 
+using one part of it less, when they should be using all of it more.)
 ```
