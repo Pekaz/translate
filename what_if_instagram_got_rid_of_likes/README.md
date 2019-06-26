@@ -84,6 +84,11 @@ using one part of it less, when they should be using all of it more.)
 
 수치적인 '좋아요'가 없는 인스타그램은 어쩌면 한편으론 더 좋았을 수도 있습니다. 그러나 만약 그랬다면 그것은 우리가
 오늘날 알고 있는 인스타그램이 되지 못했을 것이고 확실히 페이스북이 10억 달러를 주고 구입하는 그런 인스타그램도 
-아니었을 것이다. 이것은 
-
+아니었을 것이다. 이것은 인플루언서의 인스타그램이 되었고, 상태 불안의 인스타그램이 되었고 10억명이 넘는 사용자들의
+인스타그램이 되었다.
+(이 문장도 어려워서 첨부..
+But it would not have produced the Instagram we know today, and certainly not the Instagram 
+purchased by Facebook for a billion dollars, which became the Instagram of influencers, 
+which is the Instagram of status anxiety, which is the Instagram of more than a billion users.
+)
 ```
