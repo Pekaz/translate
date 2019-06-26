@@ -69,4 +69,12 @@ The real problem, from Instagram’s perspective, is the kind of thing you might
 about if you were clearly “incentivized” by metrics of an internal, top-level variety: 
 not that Instagram isn’t growing, or that people aren’t using it, but that maybe they’re 
 using one part of it less, when they should be using all of it more.)
+
+### 숫자를 덜어내는 네트워크
+
+지표가 없거나 지표가 조금밖에 없는 소셜 미디어라면 어떻게 느껴질까요? 그들의 급속한 성장과 지배에 대한 이야기에서
+지표가 얼마나 필수적인지를 생각하면 수정된 플랫폼을 상상하는 것은 쉽지 않습니다. 이 모든 숫자들은 불완전하지만
+혁명, 농담, 실수, 그리고 상황을 더 나아지게 하는데 이용되었습니다. 그리고 "공유, 좋아요, 팔로우, 뷰" 처럼 
+그들이 선점한 다양한 단어들은 우리의 일상 대화에 영향을 미쳤습니다.
+
 ```
