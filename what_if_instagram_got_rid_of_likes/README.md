@@ -109,4 +109,8 @@ saying their users can no longer be trusted, not even with the scraps of actiona
 allowed to see for years. (It also doubles as a way to share the premise that there must be a healthy 
 and highly monetizable way to use these services, and that the platforms can be trusted to figure out 
 what it is.))
+이런 지표들은 원래 목적보다 오래 보존되어 왔고 이제 뒤에서 새로운 역할이 부여되었습니다. (틱톡은 아직도 엄청난 성장 초기 단계에 있는 비교적
+새로운 앱으로, 지표와 피드백을 이용해서 유저를 더 즐겁게 하고 있으며 이것은 어느정도 효과가 있습니다. 우리는 변하지 않았습니다. 우리의
+앱이 변했습니다.)
+
 ```
