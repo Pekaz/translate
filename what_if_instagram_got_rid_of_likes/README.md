@@ -115,7 +115,25 @@ what it is.))
 
 라이크를 누르는것과 리트윗 하는것은 사람들을 위한 신호로 이용되곤 했습니다. 이제 그들은 그 신호들을 기계에게 줍니다. 우리가
 보는 왜 보이는지 바로 이해하기 어려운 추측만 할 수 있는 새로운 피드버전에서, 트위터와 인스타그램은 기본적으로 숨겨져 있는
-수십개의 지표 존재를 암시한다. 만약 우리의 피드가 이미 수많은 비밀스러운 지표를 기반으로 보여진다면, 몇가지 더
-숨기는 것은 어떨까?
+수십개의 지표 존재를 암시합니다. 만약 우리의 피드가 이미 수많은 비밀스러운 지표를 기반으로 보여진다면, 몇가지 숨기는 
+것은 안할 이유가 있을까요?
+
+인스타그램의 발표에 대한 반응은 전문적인 인플루언서들의 논란을 야기하고선 조용해졌습니다. 이 회사는 캐나다에서 
+몇몇의 유저에게  "우리는 당신의 팔로워가 당신의 게시물중 많은 좋아요를 받은 포스팅이 아닌 당신이 공유하는 것에 집중 
+시키고 싶다."라고 변화에 대한 설명을 한 메세지를 보내고선 실험해 보았습니다.(몇몇의 사용자에게는 이미 실험이 끝나있었습니다.)
+결과적으로 그 당시 잭도시가 흥미롭다고 생각했던 것들과 트위터플랫폼의 실제 특징들 사이의 관계는 잘 쳐줘야 굉장히 느슨한 
+정도였습니다.
+
+하지만 유튜브에서는 변화가 현실적이면서도 훨씬 작았습니다. 정확한 숫자대신 반올림된 숫자를 보여주면서 더 작아진
+변화를 감지하기 더 어려워졌고 영상의 주제로 다뤄지는등 결과는 가혹했습니다. 지난 몇 년 동안 인스타그램과 트위터를 사용한
+매일매일의 경험은 사용자들에게 눈에 보이는 지표들은 중요하지 않더라도 서로서로 과소평가되고 현실성이 떨어진다는
+인상을 주었습니다. 플랫폼에서 얻어진 권력과 영향력은 인플루언서등 다른곳의 제 3자를 통해 크게 표현되고 수익화 되었는데
+말하자면 정치 같은 분야 입니다.
+
+On YouTube, followers and video views translate directly into payment from the company. “No one wants this,” wrote one of hundreds of users responding to the company’s announcement. “People who keep their sub counts public want to show the full number.” Another explained why. “Time could be better spent fixing problems that users have reported across the site, not abbreviating sub counts, which can lead to lost potential business opportunities,” the user wrote. “Why do you hate your content creators so much?” asked another.
+
+Melodramatic as they may sound, these responses reflect a rational understanding of what YouTube is, and what any social network is, really: a marketplace with goods and currency and winners and losers, governed by an all-powerful and unaccountable corporation. Metrics mean money, and knowing them provides a rare if fleeting sense of knowledge and control in an environment otherwise ruled by secrets — one that will exploit you whether or not you actively try to exploit it. For users, numbers are power. For the platforms, so is hiding them.
+
+
 
 ```
