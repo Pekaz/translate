@@ -130,10 +130,17 @@ what it is.))
 인상을 주었습니다. 플랫폼에서 얻어진 권력과 영향력은 인플루언서등 다른곳의 제 3자를 통해 크게 표현되고 수익화 되었는데
 말하자면 정치 같은 분야 입니다.
 
-On YouTube, followers and video views translate directly into payment from the company. “No one wants this,” wrote one of hundreds of users responding to the company’s announcement. “People who keep their sub counts public want to show the full number.” Another explained why. “Time could be better spent fixing problems that users have reported across the site, not abbreviating sub counts, which can lead to lost potential business opportunities,” the user wrote. “Why do you hate your content creators so much?” asked another.
+유튜브에서는 팔로워수와 영상 조회수가 회사에서의 지불로 바로 이어집니다. 회사의 발표를 본 수백명의 유저중 한명이
+"이런건 아무도 원하지 않아" 라고 대답 했습니다. 그들이 설명한 다른 이유는 "부분적인 숫자를 공개적으로 표시한 사람은
+전체 숫자를 공개하고 싶은 사람입니다." 라고 했습니다. "사용자가 사이트 전체에 걸쳐 보고한 문제를 해결하는 데 시간이 
+더 많이 소요될 수 있으며, 이는 잠재적인 비즈니스 기회를 잃게 할 수 있습니다."라고 사용자가 썼습니다. 또 다른 사람은
+"컨텐츠 제작자를 왜 그렇게 싫어합니까?" 라고 반문했습니다.
 
-Melodramatic as they may sound, these responses reflect a rational understanding of what YouTube is, and what any social network is, really: a marketplace with goods and currency and winners and losers, governed by an all-powerful and unaccountable corporation. Metrics mean money, and knowing them provides a rare if fleeting sense of knowledge and control in an environment otherwise ruled by secrets — one that will exploit you whether or not you actively try to exploit it. For users, numbers are power. For the platforms, so is hiding them.
-
+과장된 소리로 들릴지 모르겠지만, 이 반응들은 유투브가 무엇인지, 그리고 실제로 소셜 네트워크가 무엇인지에 대한 합리적인 
+이해를 반영합니다. 그것은 바로 전능하고 무언가 말로 설명할 수 없는 법인에 의해 지배되는 상품과 통화, 승자와 패자가 있는 시장
+입니다. 지표를 안다는 것은 돈을 의미하는 것이며, 그것을 아는 것은 당신이 적극적으로 그것을 이용하려고 노력하든 말든 간에 
+당신을 착취할 수 있는, 비밀스럽게 지배되는 환경에서 가끔씩 지식과 통제력을 제공합니다. 사용자들에게 숫자는 힘입니다. 
+플랫폼으로써는 마찬가지로 숨기는 것도 힘 입니다.
 
 
 ```
