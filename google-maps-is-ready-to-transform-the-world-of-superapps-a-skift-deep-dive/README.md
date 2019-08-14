@@ -30,4 +30,7 @@ Google Maps Is Ready to Transform the World of Superapps: A Skift Deep Dive
 
 중국 디지털 에이전시 메일맨 그룹의 앤드류 콜린스 CEO는 싱가포르의 Grab 택시안에서 열린 위챗 앱을 사용한 전화 인터뷰에서 "위챗이 
 중국 소비자들에게 의미하는 바를 이해하는 가장 좋은 방법은 "제품을 사용하지 않은채로 그다지 오래 버티지 못한다. 8시에 일어난다면 
-8시 5분까지 사용할 것이다. 그리고 그 후 하루 종일 5분마다 그것을 사용하게 될 것이다." 라고 말했다
+8시 5분까지 사용할 것이다. 그리고 그 후 하루 종일 5분마다 그것을 사용하게 될 것이다." 라고 말했다.
+
+Also in China, the Meituan app vies for superapp status as it offers food delivery, hotel booking, group buying, movie tickets, and myriad other services while it faces off against rival Alibaba.
+
