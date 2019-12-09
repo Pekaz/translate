@@ -31,6 +31,14 @@ Neumann은씨와 최근 훌륭한 성과를 낸 직원 세명은 그들의 투�
 외모도 그의 명분에 도움이 되었다는 것에는 의심의 여지가 없다. 6피트 5인치에 달하는 그의 키는 그 방을 지배할 수 있는 신체적 존재 였다. (대변인을 통해 그는
 언급을 회피했다.)
 
+결정적으로 Neumann씨는 적절한 시기에 열광하는 사람들에게 판매하고 있었습니다. WeWork는 사무실의 브랜드를 인격의 확장공간으로 변경하여 간헐적으로 고용된 
+사람들에게 먹혔습니다. 일과 놀이가 하나의 세계로 가고있는 세상에 대한 그의 비전을 믿는 경향이 있다면, 지금은 수익성이 없지만 조만간 경제성을 확실히 
+알 수 있는 Uber나 Lyft와 같은 다른 스타트업들과 WeWork를 같은 범주로 두었을지도 모른다.
 
-Crucially, Mr. Neumann was selling to an eager audience at the right time: WeWork’s rebranding of the office as an expansion of one’s personality made sense to a generation of the intermittently employed. If you were inclined to believe his vision of a world where work and play bled into one, you might have grouped WeWork with other start-ups — like Uber and Lyft — that were unprofitable at the moment but would surely figure out the economics in time.
+Neumann씨는 회원들이 직업, 가족, 사랑에 대해서 얘기할 수 있는 첫번째 "물리적 소셜 네트워크"공간에 대해 설득력있게 이야기 할 것입니다. "그것은 인생을 뜻하는
+것과 같습니다. 당신이 말하는 것은 단지 규칙적인 삶 입니다." 라고 Weber씨는 말했다. 그러나 Neumann씨가 틀을 잡으면서 그것은 혁신적으로 들렸다.
+더 많은 사람들이 그의 비전을 구입함에 따라 WeWork의 가치는 계속 급증하였다. 그러나 Neumann씨가 SoftBank의 최고 경영자인 Masayoshi Son과 같은
+완벽한 후원자를 찾지 못했다면 성층권에 도달 한 적은 없었을 것 이다.
+
+Like Mr. Neumann, Mr. Son — known as Masa — quotes Yoda (“feel the force”), trusts his instincts and tries to think centuries into the future. At $100 billion, SoftBank’s Vision Fund is the world’s largest technology investment fund, flush with cash from Saudi Arabia and Abu Dhabi. Some of its gigantic bets, including one on Uber, have performed poorly, but Mr. Son has rejected the idea that he was putting too much money into an already overvalued start-up cycle. “Those who are calling the current environment a ‘bubble’ and ‘dangerous’ are those who do not understand technology,” Mr. Son told Japan’s Nikkei news service in July.
 
