@@ -40,5 +40,17 @@ Neumann씨는 회원들이 직업, 가족, 사랑에 대해서 얘기할 수 있
 더 많은 사람들이 그의 비전을 구입함에 따라 WeWork의 가치는 계속 급증하였다. 그러나 Neumann씨가 SoftBank의 최고 경영자인 Masayoshi Son과 같은
 완벽한 후원자를 찾지 못했다면 성층권에 도달 한 적은 없었을 것 이다.
 
-Like Mr. Neumann, Mr. Son — known as Masa — quotes Yoda (“feel the force”), trusts his instincts and tries to think centuries into the future. At $100 billion, SoftBank’s Vision Fund is the world’s largest technology investment fund, flush with cash from Saudi Arabia and Abu Dhabi. Some of its gigantic bets, including one on Uber, have performed poorly, but Mr. Son has rejected the idea that he was putting too much money into an already overvalued start-up cycle. “Those who are calling the current environment a ‘bubble’ and ‘dangerous’ are those who do not understand technology,” Mr. Son told Japan’s Nikkei news service in July.
+Neumann씨와 마찬가지로 Masa로 알려진 Son씨는 Yoda의 "feel the force"를 인용하여 그의 본능을 신뢰하면서 수세기 미래를 생각하려고 한다. Softbank의 
+Vision Fund는 사우디 아라비아와 아부 다비에서 나온 1000억 달러로 구성된 세계에서 가장 큰 기술 투자 펀드이다. Uber를 포함한 거대 베팅의 결과는 좋지 않았지만
+Son씨는 과평가된 스타트업에 이미 너무 많은 돈을 투자했다는 의견을 거부하고 있다. "현재 환경을 '거품'과 '위험'이라고 부르는 사람들은 기술을 이해하지 못하는 사람들 
+입니다."라고 Son씨는 7월에 일본의 닛케이 뉴스에서 말했다.
+
+유명한 일화로, 2017년 Neumann씨는 Son씨와 WeWork의 본사 주변을 12분동안 걸어다니고 44억달러의 투자를 유치하였습니다. 
+Afterward, an elated Mr. Neumann zoomed uptown in the back seat of his chauffeured white Maybach, blaring rap, with an iPad open to a rendering of the hasty digital spit-swear he’d just made with Mr. Son.
+그 후 의기양양해진 Neumann씨는 상류층 동네에서 운전기사가 딸린 그의 흰색 마이바흐 뒷자석에서 랩음악을 크게 틀어놓고 아이패드에 Son씨와 급하게 만든 전자 쓰레기를 
+열어놓았습니다. //이 부분 도저히 모르겠어요
+
+'더 미치게, 더 빠르게, 더 크게 그리고 더'
+To WeWork insiders who know Mr. Neumann — most of whom spoke on the condition of anonymity because of nondisclosure agreements signed with the company — the SoftBank deal changed things precipitously. They talk about WeWork as existing pre- and post-Masa. The investment transformed the start-up from a mere unicorn into something with nearly unlimited ambition.
+
 
