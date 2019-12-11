@@ -45,12 +45,18 @@ Vision Fund는 사우디 아라비아와 아부 다비에서 나온 1000억 달�
 Son씨는 과평가된 스타트업에 이미 너무 많은 돈을 투자했다는 의견을 거부하고 있다. "현재 환경을 '거품'과 '위험'이라고 부르는 사람들은 기술을 이해하지 못하는 사람들 
 입니다."라고 Son씨는 7월에 일본의 닛케이 뉴스에서 말했다.
 
-유명한 일화로, 2017년 Neumann씨는 Son씨와 WeWork의 본사 주변을 12분동안 걸어다니고 44억달러의 투자를 유치하였습니다. 
+유명한 일화로, 2017년 Neumann씨는 Son씨와 WeWork의 본사 주변을 12분동안 걸어다니고 44억달러의 투자를 유치하였다.
 Afterward, an elated Mr. Neumann zoomed uptown in the back seat of his chauffeured white Maybach, blaring rap, with an iPad open to a rendering of the hasty digital spit-swear he’d just made with Mr. Son.
 그 후 의기양양해진 Neumann씨는 상류층 동네에서 운전기사가 딸린 그의 흰색 마이바흐 뒷자석에서 랩음악을 크게 틀어놓고 아이패드에 Son씨와 급하게 만든 전자 쓰레기를 
 열어놓았습니다. //이 부분 도저히 모르겠어요
 
 '더 미치게, 더 빠르게, 더 크게 그리고 더'
-To WeWork insiders who know Mr. Neumann — most of whom spoke on the condition of anonymity because of nondisclosure agreements signed with the company — the SoftBank deal changed things precipitously. They talk about WeWork as existing pre- and post-Masa. The investment transformed the start-up from a mere unicorn into something with nearly unlimited ambition.
 
+Neumann씨를 알고있는 WeWork의 내부자들에게(대부분 회사와의 비밀유지계약으로 인해 익명으로 이야기한)에게 SoftBank와의 계약은 상황을 급격하게 바꿔놓았다.
+그들은 WeWork를 Masa이전과 Masa이후로 나누었습니다. 그 투자는 그저 단순한 스타트업 유니콘에서 거대한 야망을 가진 무언가로 바꿔놓았다.
 
+일반적으로 야망적인 창업가들의 기준으로 봐도 Neumann씨의 기행은 전설이 되었다. 사무실에서 맨발로 다닐 수 있었으며, WeWork직원들을 위해 Coachella-meets-“Wild Wild Country”-meets-nerdy-fraternity-party 라고 불린 타락한 "여름캠프"를 주최하였다. 
+
+Neumann씨는 직원들에게 Don Julio 데킬라 샷을 마신다음 20시간 일하고 새벽2시에 미팅에 참석하도록 하였다. 그는 일하면서 대마초를 피우게 하고 주말 소풍에서 불 피운
+나무 근처를 돌면서 춤추게 하고 대마초를 더 피우고 데킬라를 더 마시게 했다. 심지어 데킬라를 마실거 같지 않은 사람도 그를 따라하게 했다. 필라델피아의 부동산을 알아보는 동안에도
+따라서 마신 백악관에 들어가기 이전의 Jared Kushner 같은 사람을 포함해서 말이다.
