@@ -60,3 +60,20 @@ Neumann씨를 알고있는 WeWork의 내부자들에게(대부분 회사와의 �
 Neumann씨는 직원들에게 Don Julio 데킬라 샷을 마신다음 20시간 일하고 새벽2시에 미팅에 참석하도록 하였다. 그는 일하면서 대마초를 피우게 하고 주말 소풍에서 불 피운
 나무 근처를 돌면서 춤추게 하고 대마초를 더 피우고 데킬라를 더 마시게 했다. 심지어 데킬라를 마실거 같지 않은 사람도 그를 따라하게 했다. 필라델피아의 부동산을 알아보는 동안에도
 따라서 마신 백악관에 들어가기 이전의 Jared Kushner 같은 사람을 포함해서 말이다.
+
+Neumann씨는 "Animal House"를 더 큰 의미를 지닌 익살스러움으로 가득 채우는데 재능이 있었다. 그의 시점에서 WeWork는 단순히 사무실공간만을 근로자에게 제공하는 
+곳이 아니었다. 그것은 그들에게 콤부차, 콜드브루 커피 그리고 황홀한 공동체 의식을 제공하였다. "그들은 에너지와 문화를 위해 우리에게 온다." Neumann씨는 말했다.
+
+그는 사람들이 "누구도 혼자라고 느끼지 않는"덕분에 자살율이 낮은 WeLive 아파트에 사는 모습을 꿈꿨다. 그는 WeGrow 학교와 세계의 고아를 위한 피난처를 상상했다.
+("우리는 이 문제를 해결하고 싶고 그들에게 새 WeWork 가족을 주고싶다.") WeBank, WeSail, WeSleep, 항공사에 관한 얘기도 있었다.
+
+비록 사업 분야가 여기저기서 조롱당했음에도 불구하고 그들의 웅장한 계획은 Neumann씨가 WeWork 를 기술기반 스타트업 역할을 하는데 도움을 주었고 그 중 상당수는 
+거의 메시아적 사명감을 가지고 있는 것으로 알려져 있다.
+
+이 발표에 매료된 사람들을 위해 Neumann씨는 많은 양의 스스로 할 수 있는 명상들을 그의 아내인 Rebekah Paltrow Neumann에게서 얻었다. 그녀는 Goop의 창립자이자
+공인된 Jivamukti 요가 수행자인 Gwyneth Paltrow의 사촌이다. Neumann여사는 작년에 "내 의도는 결코 돈을 최대한 많이 버는게 아니었다."라고 말했다. "내 의도는 
+내가 그를 만났을 때 우리가 어떻게 하면 이 좋은 영향을 온 세상에 퍼트릴 수 있을까? 였다."
+
+One person who indisputably vibrated to the Neumanns’ frequency was Mr. Son. He and Mr. Neumann became acquainted in 2016 in India, during a gathering of start-up luminaries with Prime Minister Narendra Modi.
+
+
