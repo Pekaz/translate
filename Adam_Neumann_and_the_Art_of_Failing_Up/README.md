@@ -74,6 +74,13 @@ Neumann씨는 "Animal House"를 더 큰 의미를 지닌 익살스러움으로 �
 공인된 Jivamukti 요가 수행자인 Gwyneth Paltrow의 사촌이다. Neumann여사는 작년에 "내 의도는 결코 돈을 최대한 많이 버는게 아니었다."라고 말했다. "내 의도는 
 내가 그를 만났을 때 우리가 어떻게 하면 이 좋은 영향을 온 세상에 퍼트릴 수 있을까? 였다."
 
-One person who indisputably vibrated to the Neumanns’ frequency was Mr. Son. He and Mr. Neumann became acquainted in 2016 in India, during a gathering of start-up luminaries with Prime Minister Narendra Modi.
+Neumann씨에게 울림에 영향을 준 사람중 한명은 틀림없이 Son씨 이다. 그와 Neumann씨는 2016년 인도에서 Narendra Modi 총리와 함께한 창업 전문가들이 모인 자리에서
+서로 알게 되었다.
+
+표면적으로 일본 최고의 부자이지만 종종 겸손하다고 표현되는 Son씨와 세계 최초의 억만장자, 세계의 대통령이 되고 싶어하는 Neumann씨는 이보다 더 다를 수가 없었다.
+대학시절 Son씨는 전자 번역기를 발명하여 Sharp사에 매각하였고, 이후에 소프트웨어 유통업체인 SoftBank사를 설립했다. 창업 초기에 Neumann씨는 바퀴가 달린 접이식 여성용 
+하이힐이나 "단지 말하지 않는다고 아프지 않은것은 아닙니다."라는 슬로건을 앞세운 아기용 무릎보호대등의 희안한 사업등을 성공시키기 위해 애썼습니다.
+
+But both men had been outsiders. Mr. Neumann’s parents divorced when he was 7 and he bounced from city to city — including a stint on a kibbutz, or communal settlement — before following his sister, the Israeli model Adi Neumann, to New York. Mr. Son, the descendant of Korean grandparents, was born in a small town in Japan and felt the sting of discrimination before he moved to California as a teenager.
 
 
