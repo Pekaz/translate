@@ -81,6 +81,11 @@ Neumann씨에게 울림에 영향을 준 사람중 한명은 틀림없이 Son씨
 대학시절 Son씨는 전자 번역기를 발명하여 Sharp사에 매각하였고, 이후에 소프트웨어 유통업체인 SoftBank사를 설립했다. 창업 초기에 Neumann씨는 바퀴가 달린 접이식 여성용 
 하이힐이나 "단지 말하지 않는다고 아프지 않은것은 아닙니다."라는 슬로건을 앞세운 아기용 무릎보호대등의 희안한 사업등을 성공시키기 위해 애썼습니다.
 
-But both men had been outsiders. Mr. Neumann’s parents divorced when he was 7 and he bounced from city to city — including a stint on a kibbutz, or communal settlement — before following his sister, the Israeli model Adi Neumann, to New York. Mr. Son, the descendant of Korean grandparents, was born in a small town in Japan and felt the sting of discrimination before he moved to California as a teenager.
+그러나 두 사람은 모두 아웃사이더였다. Neumann씨의 부모는 그가 7살일때 이혼했고, 이스라엘 모델인 그의 여동생 Adi Neumann을 따라 뉴욕을 가기 전 까지 키부츠나 공동체 
+거주공간등 도시와 도시사이를 전전하였다. 한국인 조부모의 후손인 Son씨는 일본의 작은 마을에서 태어나 그가 10대때 캘리포니아로 이주하기 전 까지 차별의 아픔을 겪었다.
 
+Neumann씨처럼 Son씨도 그의 직감에 따라 반대파를 무시하는것으로 알려져 있습니다. 2000년에 그는 중국의 전자상거래 벤처회사 Alibaba에 2천만 달러를 꽤 이른 시점에 
+투자했는데 왜냐하면 그는 최고경영자의 눈에서 "반짝거림"을 느꼈기 때문이다. 이는 현재 1000억 달러 이상의 가치가 있다. 만약 창업자가 비전펀드에게 4000만 달러를 투자해 
+달라고 하면, Son씨는 "만약 4억 달러를 준다면 뭘 할수 있겠나?" 라고 물어 볼 수도 있다.
 
+“Masa has his own style and others might choke, but Adam would be like, ‘$400 million? How about $4 billion, and I can do this for you,’” said a senior executive with direct knowledge of the men’s interactions.
