@@ -88,4 +88,12 @@ Neumann씨처럼 Son씨도 그의 직감에 따라 반대파를 무시하는것�
 투자했는데 왜냐하면 그는 최고경영자의 눈에서 "반짝거림"을 느꼈기 때문이다. 이는 현재 1000억 달러 이상의 가치가 있다. 만약 창업자가 비전펀드에게 4000만 달러를 투자해 
 달라고 하면, Son씨는 "만약 4억 달러를 준다면 뭘 할수 있겠나?" 라고 물어 볼 수도 있다.
 
-“Masa has his own style and others might choke, but Adam would be like, ‘$400 million? How about $4 billion, and I can do this for you,’” said a senior executive with direct knowledge of the men’s interactions.
+Masa는 그만의 스타일이 있고 다른 사람들은 숨 막힐 수도 있지만, Adam은 '4억달러? 40억달러는 어떤가요, 그리고 나는 너를 위해 이걸 할 수 있어.' 라고 한다고 그들의
+상호 작용에 대해 알고 있는 고위 임원직은 말 했다.
+
+두 기업가는 친해졌고 Neumann씨는 Son씨와 도쿄에 있는 스시를 먹고 캘리포니아에서 가장 비싼값에 팔렸던 9에이커짜리 저택에서 저녁식사를 함께 했다. Son씨는 캘리포니아에 위치한 
+Neumann씨의 기타 모양 거실이 있는 코르테 마데라 저택에 들르곤 했다.
+
+Mr. Son’s decision to put billions into WeWork may have thrilled early investors and made the Vision Fund’s partners feel like they had a piece of a world-changing start-up, but the deal severed Mr. Neumann from any sense of reality. “You’ve got a guy who meets Adam for 10 minutes and cuts him a check for $4.4 billion, and it’s just insane,” the former executive said. “And he’s not told, ‘I need you to be the most careful steward of this capital.’ It’s like, ‘I need you to go crazier, faster, bigger and more.’”
+
+
