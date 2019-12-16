@@ -94,6 +94,15 @@ Masa는 그만의 스타일이 있고 다른 사람들은 숨 막힐 수도 있�
 두 기업가는 친해졌고 Neumann씨는 Son씨와 도쿄에 있는 스시를 먹고 캘리포니아에서 가장 비싼값에 팔렸던 9에이커짜리 저택에서 저녁식사를 함께 했다. Son씨는 캘리포니아에 위치한 
 Neumann씨의 기타 모양 거실이 있는 코르테 마데라 저택에 들르곤 했다.
 
-Mr. Son’s decision to put billions into WeWork may have thrilled early investors and made the Vision Fund’s partners feel like they had a piece of a world-changing start-up, but the deal severed Mr. Neumann from any sense of reality. “You’ve got a guy who meets Adam for 10 minutes and cuts him a check for $4.4 billion, and it’s just insane,” the former executive said. “And he’s not told, ‘I need you to be the most careful steward of this capital.’ It’s like, ‘I need you to go crazier, faster, bigger and more.’”
+WeWork에 수십억 달러를 투자하는 Son씨의 결정은 초기 투자자를 흥분하게 하고 비전펀드의 파트너들로 하여금 세상을 바꾸는 스타트업의 한 부분이라고 느끼게 할지 모르지만 그 
+딜은 Neumann씨로부터 어떤 현실감각에서 멀어지게 만들었다. 전 임원은 "Adam을 10분간 만나고 44억 달러짜리 수표를 끊어주는 남자가 있는데 그건 그냥 미친짓이다."라고 말했다.
+"그리고 그는 '나는 당신이 이 자본에 대해 가장 신중한 사람이 되었으면 한다.'라는 말을 듣게 되지 않았다. 그건 마치 '나는 너가 더 미친것 처럼, 더 빠르게, 더 크게 그리고 더' 같았다."
+
+'당신의 입에서 나오는 모든 말이 가짜다.'
+
+Son씨가 "더 미친것 처럼"이라고 지시한것에 힘입어 Neumann씨는 WeWork를 전세계로 확장하는데 뛰어들며 그의 더 고상한 목표를 달성하기 위해 노력한다. 그리고 그의 
+고삐풀린 야망은 회사의 손실을 증가스키고 직원과 투자자들에게 영향을 미치기 시작했다고 Neumann씨를 아는 십여명의 사람이 말했다.
+
+Last year, WeWork bought access to a Gulfstream G650 for $60 million, about the sum that the company was losing every two weeks. He installed an infrared sauna and a cold plunge pool in his Manhattan office. In a glaring conflict of interest, he made millions leasing buildings he partly owned back to WeWork. Indulging his penchant for mysticism, Mr. Neumann changed the company’s name to the We Company. Its I.P.O. filing, which included at least 150 references to the word “community,” noted that Mr. Neumann had acted to trademark “We” and extract a $5.9 million payment from the company for the use of the pronoun. He later returned the fee.
 
 
