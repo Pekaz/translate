@@ -41,7 +41,7 @@ Neumann씨는 회원들이 직업, 가족, 사랑에 대해서 얘기할 수 있
 완벽한 후원자를 찾지 못했다면 성층권에 도달 한 적은 없었을 것 이다.
 
 Neumann씨와 마찬가지로 Masa로 알려진 Son씨는 Yoda의 "feel the force"를 인용하여 그의 본능을 신뢰하면서 수세기 미래를 생각하려고 한다. Softbank의 
-Vision Fund는 사우디 아라비아와 아부 다비에서 나온 1000억 달러로 구성된 세계에서 가장 큰 기술 투자 펀드이다. Uber를 포함한 거대 베팅의 결과는 좋지 않았지만
+비전펀드는 사우디 아라비아와 아부 다비에서 나온 1000억 달러로 구성된 세계에서 가장 큰 기술 투자 펀드이다. Uber를 포함한 거대 베팅의 결과는 좋지 않았지만
 Son씨는 과평가된 스타트업에 이미 너무 많은 돈을 투자했다는 의견을 거부하고 있다. "현재 환경을 '거품'과 '위험'이라고 부르는 사람들은 기술을 이해하지 못하는 사람들 
 입니다."라고 Son씨는 7월에 일본의 닛케이 뉴스에서 말했다.
 
@@ -105,9 +105,30 @@ Son씨가 "더 미친것 처럼"이라고 지시한것에 힘입어 Neumann씨�
 
 작년에, WeWork는 Gulfstream G650을 2주마다 회사가 손실보는 금액인 6,000만 달러에 구입했다. 그는 자신의 맨하튼 사무실에 적외선 사우나와 수영장을 지었다.
 그는 이해관계가 엄청나게 대립되는 상황에서 자신이 부분적으로 소유했던 수백만달러 가치의 건물들을 WeWork 에게 임대했다. Neumann씨는 신비주의에 대한 그의 애착을 드러내며 
-회사의 이름을 We Company로 변경했다. "커뮤니티"라는 단어만 적어도 150만이상 등장하는 그것의 I.P.O문서에 대해 Neumann씨가 "우리" 라는 상표에 따라 행동을 하였고
+회사의 이름을 We Company로 변경했다. "커뮤니티"라는 단어만 적어도 150만이상 등장하는 그것의 IPO문서에 대해 Neumann씨가 "우리" 라는 상표에 따라 행동을 하였고
 그 대명사 사용에 대해 590만 달러의 지불을 받았다는데 주목했다. 그는 나중에 그걸 다 돌려줬다.
 
-Some employees found his behavior noxious. In a federal complaint filed Thursday, Medina Bardhi, a former chief of staff to Mr. Neumann, accused him of retaliating against her for becoming pregnant and derided her maternity leave as a “vacation” and “retirement.” (She also said she had to stop traveling with Mr. Neumann while pregnant because he liked to hotbox the company jet. A WeWork spokeswoman said the company would “vigorously defend itself” and had “zero tolerance for discrimination.”)
+일부 직원들은 그의 행동이 유해하다고 생각했다. Neumann 전 대표의 비서실장이었던 Medina Bardhi는 지난 목요일 연방법원에 제출한 고소장에따르면 그는 그녀의 임신과 출산 휴가를 
+"방학"과 "퇴직"으로 조롱하는 보복을 했다고 비난했다. (또한 그녀가 말하길 Neumann씨는 섹시한 여자와 회사 제트기를 타는걸 좋아했기 때문에 그녀는 임신한 동안에는 Neumann씨와 
+출장가는것을 멈춰야 했다. WeWork의 대변인은 그 회사가 "격렬하게 스스로를 방어할 것" 이며 "차별에 대한 무관용"을 가지고 있다고 말했다.)
+
+지난 몇년동안 월스트리트와 비지니스 언론사에 있는 많은 사람들은 WeWork의 사업 모델을 공개적으로 비웃었다. 지난해 Vanity Fair는 200억달러의 카드집에 대해 의문을 제기했다.
+그리고 일부는 Neumann씨가 2017년 Baruch College의 연설에서 Rebekah와의 첫 데이트에 대한 스토리를 공유하는게 현명했는지 의문을 가진다. "그녀는 내 눈을 쳐다보면서 말했다,
+'내 친구야 너는 지금 쓰래기 투성이야' 라고 Nuemann씨는 회상했다. "그러고나서 그녀는, '너의 입에서 나오는 모든 말은 거짓말이야' 라고 했다."
+
+누구도 Neumann씨가 비범한 비전을 가졌다는데 이의를 제가하지 않는다. 9년만에, WeWork는 사무실 한개에서 약 110개 도시에 약 527,000명의 세입자 혹은 "회원"을 거느린 4500만 평방 
+피트가 넘는 부동산을 차지할만큼 성장했다. WeWork는 런던, 뉴욕, 워싱턴에서 단일규모로 사무실 공간이 가장 큰 점유자가 되었다. 그것의 멋있는 공간은 긱이코노미와 수천년간의 허슬 정신에서 
+기업가정신과 동의어가 되었고 그것은 "Thank God It’s Monday!" 티셔츠로 완성되었다. IBM, 마이크로소프트, 세일즈포스등 대기업들은 직원들을 WeWork공간으로 이사 시켰다.
+
+JPMorgan Chase의 최고경영자 Jamie Dimon, 마이크로소프트의 최고경영자 Satya Nadella 그리고 사모 주식 재벌 Henry R. Kravis와 같은 전문가들이 WeWork사무실에 왔을 때, 
+Neumann은 그들을 어떻게 환영해야 하는지 알고 있었다. 그는 그의 팀에게 런던의 포스트모던 No.1 Poultry 빌딩 또는 파스텔 테라조 타일이 있는 오래된 아편공장같은 WeWork의 프리미엄 
+로케이션이 나오는 거대한 터치스크린을 통해 "공간을 작동하라"라고 지시할 수도 있었다. 그리고 Neumann은 잠재적 투자자들이 가상현실 랜더링을 다루는 WeWork의 "시각화 책임자"의 책상에 
+들르도록 했다. 한순간에, 방문객들은 파리나 도쿄에 위치하는 미래의 WeWork 공간 안에 있는 그들 자신을 볼 수 있었다. 이 회사의 최고 성장 책임자인 Dave Fano가 2017년 Forbes에서 "Landlords는 단순히 알루미늄만 판다. 우리는 아이폰을 만든다."라고 말 했다.
+
+오랫동안 Son씨는 Neumann씨를 보호했다. 9월 중순, IPO에 대한 노력이 무너지고 Neumann씨가 외부로부터 사임 압력을 받고 있을 때, Son씨는 그를 캘리포니아 패서디나에 있는 Langham 호텔에 
+있는 자신의 테이블에 앉도록 초청하여 비전펀드 사교모임을 가졌다. John Legend가 연주했었을 것이다. 대화 내용을 브리핑한 한 사람에 따르면 SoftBank임원들은 손 사장에게 Neumann씨가 행사에 
+참여하는 모습을 보거나 하물며 메인 테이블에 앉는걸 보는것은 끔찍할 것이다. 라고 말했다.
+
+Ultimately, Mr. Neumann did not appear — and pointedly, Mr. Son gave other attendees a stern reminder about the importance of profitability and strengthening corporate governance before a company attempts to go public.
 
 
