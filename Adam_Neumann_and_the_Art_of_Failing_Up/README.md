@@ -103,6 +103,11 @@ WeWork에 수십억 달러를 투자하는 Son씨의 결정은 초기 투자자�
 Son씨가 "더 미친것 처럼"이라고 지시한것에 힘입어 Neumann씨는 WeWork를 전세계로 확장하는데 뛰어들며 그의 더 고상한 목표를 달성하기 위해 노력한다. 그리고 그의 
 고삐풀린 야망은 회사의 손실을 증가스키고 직원과 투자자들에게 영향을 미치기 시작했다고 Neumann씨를 아는 십여명의 사람이 말했다.
 
-Last year, WeWork bought access to a Gulfstream G650 for $60 million, about the sum that the company was losing every two weeks. He installed an infrared sauna and a cold plunge pool in his Manhattan office. In a glaring conflict of interest, he made millions leasing buildings he partly owned back to WeWork. Indulging his penchant for mysticism, Mr. Neumann changed the company’s name to the We Company. Its I.P.O. filing, which included at least 150 references to the word “community,” noted that Mr. Neumann had acted to trademark “We” and extract a $5.9 million payment from the company for the use of the pronoun. He later returned the fee.
+작년에, WeWork는 Gulfstream G650을 2주마다 회사가 손실보는 금액인 6,000만 달러에 구입했다. 그는 자신의 맨하튼 사무실에 적외선 사우나와 수영장을 지었다.
+그는 이해관계가 엄청나게 대립되는 상황에서 자신이 부분적으로 소유했던 수백만달러 가치의 건물들을 WeWork 에게 임대했다. Neumann씨는 신비주의에 대한 그의 애착을 드러내며 
+회사의 이름을 We Company로 변경했다. "커뮤니티"라는 단어만 적어도 150만이상 등장하는 그것의 I.P.O문서에 대해 Neumann씨가 "우리" 라는 상표에 따라 행동을 하였고
+그 대명사 사용에 대해 590만 달러의 지불을 받았다는데 주목했다. 그는 나중에 그걸 다 돌려줬다.
+
+Some employees found his behavior noxious. In a federal complaint filed Thursday, Medina Bardhi, a former chief of staff to Mr. Neumann, accused him of retaliating against her for becoming pregnant and derided her maternity leave as a “vacation” and “retirement.” (She also said she had to stop traveling with Mr. Neumann while pregnant because he liked to hotbox the company jet. A WeWork spokeswoman said the company would “vigorously defend itself” and had “zero tolerance for discrimination.”)
 
 
