@@ -129,6 +129,21 @@ Neumann은 그들을 어떻게 환영해야 하는지 알고 있었다. 그는 �
 있는 자신의 테이블에 앉도록 초청하여 비전펀드 사교모임을 가졌다. John Legend가 연주했었을 것이다. 대화 내용을 브리핑한 한 사람에 따르면 SoftBank임원들은 손 사장에게 Neumann씨가 행사에 
 참여하는 모습을 보거나 하물며 메인 테이블에 앉는걸 보는것은 끔찍할 것이다. 라고 말했다.
 
-Ultimately, Mr. Neumann did not appear — and pointedly, Mr. Son gave other attendees a stern reminder about the importance of profitability and strengthening corporate governance before a company attempts to go public.
+결국 Neumann씨는 나타나지 않았다. 그리고 Son씨는 다른 참석자들에게 회사가 상장하기 전에 수익성과 기업지배력 강화의 중요성에 대해 정확히 찝어서 엄중하게 생기시켰다.
 
+Neumann씨는 9월 24일 최고경영자직에서 사임했다. 10월에 비전펀드 투자자들과의 컨퍼런스콜에서 Son씨는 창업자에게 너무 많은 믿은을 준 것을 사과했다고 관계자가 말했다. 10월 22일,
+SoftBank는 WeWork 회사 지분의 80퍼센트를 매수하였다. 그 다음날 SoftBank의 최고 운영책임자인 Marcello Claure는 그 회사의 새로운 임원이 되어서 직원들과 타운홀 미팅을 
+하였다.
 
+녹취록에 따르면 "해고가 있을 예정입니까?", "네", "얼마나요?", "모르겠습니다." 라고 그는 말했다. 또한 그는 "아담에게 지불한 금액은 일단 뒤로 하고 싶군요."라고 덧붙였다.
+
+Neumann씨가 선견지명이 있는 사람으로 칭송받았던 강매꾼으로 폄하되었던 그는 항상 WeWork내에서 강력한 투표권 장악력을 유지했다. 한때 그의 지분율은 투표때마다 20표씩을 행사 할 수 
+있을 정도였다. SoftBank는 그의 지분을 장악 하기 위해 대가를 치뤄야 한다고 결정했다.
+
+"아담은 이제 회사에서 어떤 역할도 하지 않을 것이고, 이사회의 일원으로 남아있지도 않을 것이지만, 나는 그의 지식중 일부를 활용할 계획입니다." Claure씨는 직원들에게 말했다.
+
+몇몇 월가 사람들은 WeWork는 아직도 추락할 가능성이 있다고 생각한다. 10월 30일, 헤지펀드 매니저 Bill Ackman은 회사의 가치가 "제로가 될 가능성이 꽤 높다."라고 공개적으로 말했다. 
+그 외 분석가들은 WeWork가 여전히 사업가능한 비지니스 모델이 있다고 말한다. 그러나 그 모델은 사무 공간 임대라는 핵심 가치에 좀 더 가까워질 것이다. 이전에 말했던 학교나 고아들을 위한 것이 
+아니라 장기 계약자들에게 활기찬 분위기를 제공하거나 무료 와이파이등을 제공하는 것 말이다.
+
+“Is there a viable business? The answer is yes, but not the way WeWork pursued it,” said Nori Gerardo Lietz, a senior lecturer at Harvard Business School who has studied the company extensively. She added that WeWork would have to move past its “profligate excesses.”
