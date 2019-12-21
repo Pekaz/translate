@@ -55,7 +55,8 @@ Afterward, an elated Mr. Neumann zoomed uptown in the back seat of his chauffeur
 Neumann씨를 알고있는 WeWork의 내부자들에게(대부분 회사와의 비밀유지계약으로 인해 익명으로 이야기한)에게 SoftBank와의 계약은 상황을 급격하게 바꿔놓았다.
 그들은 WeWork를 Masa이전과 Masa이후로 나누었습니다. 그 투자는 그저 단순한 스타트업 유니콘에서 거대한 야망을 가진 무언가로 바꿔놓았다.
 
-일반적으로 야망적인 창업가들의 기준으로 봐도 Neumann씨의 기행은 전설이 되었다. 사무실에서 맨발로 다닐 수 있었으며, WeWork직원들을 위해 Coachella-meets-“Wild Wild Country”-meets-nerdy-fraternity-party 라고 불린 타락한 "여름캠프"를 주최하였다. 
+일반적으로 야망적인 창업가들의 기준으로 봐도 Neumann씨의 기행은 전설이 되었다. 사무실에서 맨발로 다닐 수 있었으며, WeWork직원들을 위해 
+Coachella-meets-“Wild Wild Country”-meets-nerdy-fraternity-party 라고 불린 타락한 "여름캠프"를 주최하였다. 
 
 Neumann씨는 직원들에게 Don Julio 데킬라 샷을 마신다음 20시간 일하고 새벽2시에 미팅에 참석하도록 하였다. 그는 일하면서 대마초를 피우게 하고 주말 소풍에서 불 피운
 나무 근처를 돌면서 춤추게 하고 대마초를 더 피우고 데킬라를 더 마시게 했다. 심지어 데킬라를 마실거 같지 않은 사람도 그를 따라하게 했다. 필라델피아의 부동산을 알아보는 동안에도
@@ -123,7 +124,8 @@ Son씨가 "더 미친것 처럼"이라고 지시한것에 힘입어 Neumann씨�
 JPMorgan Chase의 최고경영자 Jamie Dimon, 마이크로소프트의 최고경영자 Satya Nadella 그리고 사모 주식 재벌 Henry R. Kravis와 같은 전문가들이 WeWork사무실에 왔을 때, 
 Neumann은 그들을 어떻게 환영해야 하는지 알고 있었다. 그는 그의 팀에게 런던의 포스트모던 No.1 Poultry 빌딩 또는 파스텔 테라조 타일이 있는 오래된 아편공장같은 WeWork의 프리미엄 
 로케이션이 나오는 거대한 터치스크린을 통해 "공간을 작동하라"라고 지시할 수도 있었다. 그리고 Neumann은 잠재적 투자자들이 가상현실 랜더링을 다루는 WeWork의 "시각화 책임자"의 책상에 
-들르도록 했다. 한순간에, 방문객들은 파리나 도쿄에 위치하는 미래의 WeWork 공간 안에 있는 그들 자신을 볼 수 있었다. 이 회사의 최고 성장 책임자인 Dave Fano가 2017년 Forbes에서 "Landlords는 단순히 알루미늄만 판다. 우리는 아이폰을 만든다."라고 말 했다.
+들르도록 했다. 한순간에, 방문객들은 파리나 도쿄에 위치하는 미래의 WeWork 공간 안에 있는 그들 자신을 볼 수 있었다. 이 회사의 최고 성장 책임자인 Dave Fano가 2017년 Forbes에서 
+"Landlords는 단순히 알루미늄만 판다. 우리는 아이폰을 만든다."라고 말 했다.
 
 오랫동안 Son씨는 Neumann씨를 보호했다. 9월 중순, IPO에 대한 노력이 무너지고 Neumann씨가 외부로부터 사임 압력을 받고 있을 때, Son씨는 그를 캘리포니아 패서디나에 있는 Langham 호텔에 
 있는 자신의 테이블에 앉도록 초청하여 비전펀드 사교모임을 가졌다. John Legend가 연주했었을 것이다. 대화 내용을 브리핑한 한 사람에 따르면 SoftBank임원들은 손 사장에게 Neumann씨가 행사에 
@@ -146,4 +148,12 @@ Neumann씨가 선견지명이 있는 사람으로 칭송받았던 강매꾼으�
 그 외 분석가들은 WeWork가 여전히 사업가능한 비지니스 모델이 있다고 말한다. 그러나 그 모델은 사무 공간 임대라는 핵심 가치에 좀 더 가까워질 것이다. 이전에 말했던 학교나 고아들을 위한 것이 
 아니라 장기 계약자들에게 활기찬 분위기를 제공하거나 무료 와이파이등을 제공하는 것 말이다.
 
-“Is there a viable business? The answer is yes, but not the way WeWork pursued it,” said Nori Gerardo Lietz, a senior lecturer at Harvard Business School who has studied the company extensively. She added that WeWork would have to move past its “profligate excesses.”
+"가능한 사업이 있나요?" 대답은 그렇다 입니다. 그러나 WeWork가 추구 한 방식은 아닙니다. 이 회사를 광범위하게 연구한 하버드 경영 대학원의 강사진 Nori Gerardo Lietz가 말했다. 그녀는 
+WeWork가 "과도한 계획"을 넘어서야 할 것이라고 덧붙였다.
+
+부적절하게도, 아직도 Neumann씨를 사업가로써 믿고 있는 사람들이 있다. "사실 나는 그가 내가 만난 가장 위대한 기업가들 중 한 명일 것이라고 생각한다." Salesforce의 Marc Benioff는 
+10월 15일 Business Insider에게 말했다. "그는 믿을 수 없는 에반젤리스트이다. 그는 놀라울 정도로 선견지명이 있다. 그는 대단한 사람을 많이 고용했다. 그는 엄청난 브랜드를 만들었다. 그렇지?" 
+Benioff씨는 "불행하게도, 그가 처음부터 다시 할 수 있었다면 아마 당신이 바꾸고 싶어했던 것들이 회사 내에 있었을 것이다."라고 인정했다.
+
+Neumann씨는 최근 몇 주 동안 그리니치 마을, 몬탁, 그리고 웨스트체스터 카운티등을 왕래하면서 법적, 관계적 문제들을 다루면서 별 일 없이 조용히 지내고 있다. WeWork가 "사람들이 그냥 사는게 아닌 
+삶을 사는 세상을 만들겠다."고 약속했던 사람이 이제는 책임 사이에 껴있다.
