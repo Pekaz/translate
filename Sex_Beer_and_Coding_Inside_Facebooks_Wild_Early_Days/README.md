@@ -1,3 +1,10 @@
 https://www.wired.com/story/sex-beer-and-coding-inside-facebooks-wild-early-days/
 
-Sex, Beer, and Coding: Inside Facebook’s Wild Early Days
+섹스, 맥주, 그리고 코딩: 페이스북의 미쳤던 초창기 들여다보기
+어린 마크 주커버그가 2004년에 팔로알토로 이사를 갔을 때, 그와 그의 친구들은 오늘날에도 계속해서 회사에 영향을 미치는 기업의 초기 문화를 만들었다.
+
+이 이야기는 아담 피셔의 "Valley of Genius"에서 발췌한 것이다.
+
+소셜 네트워크를 본 모든 사람들은 페이스북의 설립 이야기를 알고 있을 것이다. 그것은 2004년 봄학기 하버드대에서 였다. 하지만 사람들이 잊어버리는 경향이 
+있는 것은 페이스북이 몇 달 동안은 케임브리지에서만 기반을 두고 있었다는 것이다. 당시에는 TheFacebook.com으로 불렸으며, 실리콘 밸리에 기반을 둔 
+선구적인 소셜 네트워크 서비스인 Friendster의 카피본 이었다.
