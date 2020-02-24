@@ -23,4 +23,20 @@ https://www.wired.com/story/sex-beer-and-coding-inside-facebooks-wild-early-days
 초상화 이다. 모든 사업은 농담에서 시작되었으며 회사답지 않았고, 여름의 비어퐁과 코드스프린트를 위한 구실이었을 뿐이다. 사실 주커버그의 첫 명함은 
 "I'm CEO ... bitch." 였다. The brogrammer는 농담이었다..아닌가?
 
-Sean Parker (cofounder of Napster and first president of Facebook): The dotcom era sort of ended with Napster, then there’s the dotcom bust, which leads to the social media era
+션 파커(냅스터의 코파운더이자 페이스북의 초대 사장): 닷컴시대는 냅스터로 끝이 났고, 소셜미디어 시대를 시작으로 닷컴 붐이 왔다.
+
+스티븐 존슨 (유명한 저자이자 문화평론가): 그 당시에 웹은 근본적으로 "페이지"라고 문학적으로 비유되곤 했고 이 하이퍼텍스트들은 페이지간의 연결이었다.
+그때는 사용자라는 개념이 없었고 비유의 일부분을 차지하지 않았다.
+
+마크 핀커스 (기초적인 소셜미디어 특허의 공동 소유자): 나는 냅스터를 페이지가 아닌 사람 중심 소셜 웹의 시작이라고 본다. 내게는 획기적인 시간이었다. 왜냐하면 
+인터넷이 완전히 분산된 피어 투 피어 네트워크가 될수 있다는 것을 보았기 때문이다. 우리는 그 큰 미디어 회사들의 중간다리를 탈피하고 모두가 각자 서로에게
+연결되게 할 수 있다.
+
+스티븐 존슨: 나에게 그것은 2000년도 초반 블로깅으로 시작되었다. 당신은 한 사람의 관점을 지향하는 이런 사이트들을 가지는걸로 시작했다. 그리고 갑자기
+상상할 수 있게 되었다. 오 만약 웹이 잘 엮어서 보여줄 수 있는 다른 요소들이 있지 않을까? 마치 내가 이 5명을 믿는것처럼 그들이 추천해주는 것들을 보고 싶다.
+그리고 그게 곧 블로그의 초기 모습 이었다.
+
+에브 윌리암스 (블로거, 트위터, 미디움 파운더): 그때의 블로그는 대부분 무겁게 연결되있었고 대부분 인터넷에 관한 것 이었다. "우리는 인터넷에서 인터넷에 
+대한 얘기를 쓰고 더 많은 인터넷에 연결되었다, 재미있지 않니?"
+
+Steven Johnson: You would pull together a bunch of different voices that would basically recommend links to you, and so there was a personal filter.
