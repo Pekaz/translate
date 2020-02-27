@@ -79,4 +79,64 @@ https://www.wired.com/story/sex-beer-and-coding-inside-facebooks-wild-early-days
 
 애론 시틱: 그후 많이 언급되진 않았지만 2004년 2월에 페이스북이 출시되었다.
 
-Dustin Moskovitz (Zuckerberg's original right-hand man): Back then there was a really common problem
+더스틴 모스코비츠(주커버그의 원조 오른팔): 지금은 별것 아니지만 그때 당시엔 흔히 볼 수 있었던 문제가 있다. 기본적으로 어떤 사람의 이름을 떠올리고 나서 사진을 보기란 
+불가능했다. 하버드의 모든 기숙사는 얼굴 책이라는 안내책자가 있었는데, 몇몇은 인쇄되어있고 몇몇은 온라인에 있고 특히 몇몇 특정 기숙사만 존재했었다. 그래서 우리는 통일된 
+버전을 온라인으로 만들기로 했고 이름을 개별판이랑 차별화를 두기 위해 페이스북 이라고 붙였다.
+
+마크 주커버그(페이스북의 창립자이자 현 CEO): 몇 주 만에, 수천명에 달하는 사람들이 가입을 했다. 그리고 우리는 다른 학교 사람들로부터 그들의 학교도 서비스를 이용할 수 
+있도록 해달라는 이메일을 받기 시작했다.
+
+애즈라 캘러한: 페이스북은 원래 아이비리그에서부터 시작했는데, 그게 그들이 아이비리그끼리만 쓰고싶어하는 오만하고 콧대높은 아이들이라서 그런건 아니었다. 아이비리그에 있는 
+애들은 아이비리그에 있는 애들이랑 더 친해지고 친구가 되기 쉽다고 생각해서 였다.
+
+Aaron Sittig: When Facebook launched at Berkeley, the rules of socializing just totally transformed. When I started at Berkeley, the way you found out about parties was you spent all week talking to people figuring out what was interesting, and then you’d have to constantly be in contact. With Facebook there, knowing what was going on on the weekend was trivial. It was just all laid out for you.
+
+애론 시틱: 페이스북이 버클리에서 런칭되고나서, 사회활동의 방식이 완전히 바뀌었다. 내가 버클리에서 막 시작했을 때, 파티를 찾는 방법은 한주내내 뭐 재밋는거 없는지 사람들이랑 
+대화를 통해서 알아내야 했고 지속적으로 연락을 유지해야 했다. 페이스북이 나오고 나서는 주말에 무슨일이 있는지 알아내는 건 쉬운일이 되었다. 이 모든 기능이 당신을 위해 
+준비 되어 있었다.
+
+페이스북은 실리콘밸리의 심장인 스탠포드 대학에 꽤 일찍(2004년 3월경) 들어갓다.
+
+Sean Parker: My roommates in Portola Valley were all going to Stanford
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
