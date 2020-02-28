@@ -62,7 +62,7 @@ https://www.wired.com/story/sex-beer-and-coding-inside-facebooks-wild-early-days
 숀 파커: 아마 냅스터로 생각되는 초기 소셜 네트워크의 모습에서부터 소셜네트워크와 닮아있지만 여러가지 특징을 가지고있는 플라소, 그리고 링크드인, 마이스페이스, 
 프렌즈스터를 지나 오늘날 소셜 네트워크 모습을 가지고 있는 페이스북까지 일련의 진화가 일어났다.
 
-에즈라 캘러한 (페이스북 초기 멤버중 한명): 2000년대 초반에 프렌즈스터는 거의 모든 얼리어댑터들을 얻었고 그들은 정말 촘촘한 네트워크를 가지고 있으며 많은 활동을 
+애즈라 캘러한 (페이스북 초기 멤버중 한명): 2000년대 초반에 프렌즈스터는 거의 모든 얼리어댑터들을 얻었고 그들은 정말 촘촘한 네트워크를 가지고 있으며 많은 활동을 
 했는데 결국 한계점에 봉착했다.
 
 애론 시틱: 정말 큰 레이스가 벌어지고 있었고, 프렌즈스터는 진짜로 "소셜 네트워킹"이라고 불리우는 새로운 무언가를 발견해낸거 같았고, 그들은 명백히도 승자였다. 
@@ -89,15 +89,38 @@ https://www.wired.com/story/sex-beer-and-coding-inside-facebooks-wild-early-days
 애즈라 캘러한: 페이스북은 원래 아이비리그에서부터 시작했는데, 그게 그들이 아이비리그끼리만 쓰고싶어하는 오만하고 콧대높은 아이들이라서 그런건 아니었다. 아이비리그에 있는 
 애들은 아이비리그에 있는 애들이랑 더 친해지고 친구가 되기 쉽다고 생각해서 였다.
 
-Aaron Sittig: When Facebook launched at Berkeley, the rules of socializing just totally transformed. When I started at Berkeley, the way you found out about parties was you spent all week talking to people figuring out what was interesting, and then you’d have to constantly be in contact. With Facebook there, knowing what was going on on the weekend was trivial. It was just all laid out for you.
-
 애론 시틱: 페이스북이 버클리에서 런칭되고나서, 사회활동의 방식이 완전히 바뀌었다. 내가 버클리에서 막 시작했을 때, 파티를 찾는 방법은 한주내내 뭐 재밋는거 없는지 사람들이랑 
 대화를 통해서 알아내야 했고 지속적으로 연락을 유지해야 했다. 페이스북이 나오고 나서는 주말에 무슨일이 있는지 알아내는 건 쉬운일이 되었다. 이 모든 기능이 당신을 위해 
 준비 되어 있었다.
 
 페이스북은 실리콘밸리의 심장인 스탠포드 대학에 꽤 일찍(2004년 3월경) 들어갓다.
 
-Sean Parker: My roommates in Portola Valley were all going to Stanford
+숀 파커: 포톨라 벨리에 있던 내 룸메이트들은 모두 스탠포드로 갔다.
+
+애즈라 캘러한: 그래서 나는 2003년 스탠포드를 졸업하고 그 해에 내 친구 네명과 함께 학교 근처에 추가적인 방이 딸린 집을 빌렸다. 그리고 우리는 몇몇 스탠포드 이메일리스트를 
+이용해 우리 집으로 이사해 같이 살 룸메이트를 구하기 시작했다. 우리는 숀 파커라는 이름의 남자에게 답장을 받았다. 그는 우연히 우리 집으로 이사와 같이 살게 되었고, 우리는 
+꽤나 문화적 파장을 일으킨 냅스터가 돈을 벌지 못했다는걸 알았다.
+
+숀 파커: 그리고 내 룸메이트중 한명의 여자친구는 그걸 쓰고 있었는데, 나는 "너도 알다시피, 프렌드스터나 마이스페이스 같은게 참 많아" 라고 했고 그녀는 "맞아 근데 대학생중에 
+마이스페이스를 쓰는 사람은 없어." 라고 했다. 마이스페이스에는 약간의 문제가 있었다.
+
+마크 주커버그: 마이스페이스에서는 직원의 1/3정도가 성인물 사진 업로드를 감시하는데 쓰였다. 우리는 그런 성인물 사진이 업로드 된것을 찾아보기 어려웠다. 그 이유로 페이스북에서는 
+사람들이 자기의 진짜 이름을 쓰기 때문이다.
+
+애덤 디 앤젤로 (주커버그의 고등학교 해킹친구): 실명은 진짜 중요합니다.
+
+애론 시틱: 우리는 그것을 일찌감치 명백히 할 수 있었습니다. 왜냐면, Well에서 정립된 몇몇 커뮤니티 원칙이 있었기 때문이죠. 당신은 당신의 말을 소유한다. 그리고 우리는 그것을 
+Well 보다 더 멀리 가져간다. 우리는 언제나 특정인물을 역추적 할 수 있는 모든것을 가지고 있었습니다.
+
+스튜어트 브랜드 (최초의 소셜네트워크 사이트 Well의 파운더): Well은 추적할 수 있는 방법을 가지고 있었어야 한다, 하지만 우리는 그러지 않았다. 그것은 우리가 한 실수 중 하나다.
+
+마크 주커버그: 그리고 나는 그게 복잡한 기술적 문제를 풀 수 있는 아주 간단한 사회적 해결책 이라고 생각한다.
+
+애즈라 캘러한: 초기에는 해킹당할법도 한 간단한 웹사이트 였다. 정말 기본적인 웹 폼들 말이다. 왜냐면 그게 곧 페이스북 프로필들 이었기 때문이다.
+
+Ruchi Sanghvi (coder who created Facebook's Newsfeed): There was a little profile pic, and it said things like, “This is my profile” and “See my friends,” and there were three or four links and one or two other boxes below that.
+
+
 
 
 
