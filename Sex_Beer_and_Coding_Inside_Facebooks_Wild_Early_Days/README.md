@@ -118,9 +118,30 @@ Well 보다 더 멀리 가져간다. 우리는 언제나 특정인물을 역추�
 
 애즈라 캘러한: 초기에는 해킹당할법도 한 간단한 웹사이트 였다. 정말 기본적인 웹 폼들 말이다. 왜냐면 그게 곧 페이스북 프로필들 이었기 때문이다.
 
-Ruchi Sanghvi (coder who created Facebook's Newsfeed): There was a little profile pic, and it said things like, “This is my profile” and “See my friends,” and there were three or four links and one or two other boxes below that.
+루치 상비 (페이스북의 뉴스피드를 만든 개발자): 거기엔 작은 프로필 사진이 있었고, 이렇게 써져있었다. "이건 내 프로필이다." 그리고 "내 친구들을 봐바." 그리고 거기엔 서너개의 
+링크가 달려있고 한두개의 박스가 아래에 있었다.
+
+애론 시틱: 그러나 나는 그들이 그들의 제품에 얼마나 집중하고 명백하게 했는지에 정말로 감명받았다. 당신이 언제 당신의 프로필에 갔는지등 작은 디테일이 "이건 당신이다"라고 명백하게 
+말해주었다. 왜냐하면 소셜 네트워크라는 것은 그 때 당시 매우매우 이해하기 어려웠기 때문이다. 그래서 보통이라면 제품이 나오고 나서 몇년간 성장하는 과정 없이는 보기 힘든 성숙함이 
+그 제품에서는 보였다.
+
+숀 파커: 그래서 나는 이걸 보고, 페이스북에 있는 이메일 주소로 이메일을 보냈다. "나는 프렌드스터에서 잠시 일했었고 당신과 그것들에 대해 얘기를 할만한게 있나 만나보고싶다." 
+라고 했다. 그리고 우리는 뉴욕에서 만나서 (왜 뉴욕에서 만나자고 했는지는 나도 모르겠다.) 마크와 나는 제품 디자인과 내가 생각하는 제품에 필요한 것들에 대해 얘기를 나누었다.
 
 
+애론 시틱: 나는 숀 파커로부터 전화를 받았고 그는, "이봐 나 지금 뉴욕이야. 나 방금 마크 주커버그 그 꼬맹이와 만나고 왔어, 그 똑똑한 친구, 그리고 그는 페이스북을 만든 사람이야.
+그리고 그가 말하길 그들은 '비밀 기능'을 가지고 있다고 하고 이게 런칭되면 모든것을 바꿀거라고 했어! 그런데 그게 뭔지 나한테 말을 안해줬어. 이게 나를 미치게해. 나는 이게 뭔지 
+도저히 모르겠어. 이거에 대해 아는게 있어? 이게 뭔지 알아 낼 수 있어? 이게 어떤것일지 가늠되는거라도 있어?" 라고 했다. 그리고 우리는 잠시 이것에 대해 얘기를 나눴고 그들의 
+모든 것을 바꿀만한 "비밀 기능"이 뭔지 알아내지는 못했다. 우리는 그것에 대해 일종의 강박증을 가지게 되었다.
+
+숀 파커와 만나고 두 달 뒤, 마크 주커버그는 기숙사에서 시작된 프로젝트 아이디어를 실제 비지니스화 시켜서 실리콘 벨리로 가져갔다. 그의 동행자는 공동 창업자 콘실리에르, 더스틴 모스코비츠,
+그리고 인턴 두어명 이었다.
+
+마크 주커버그: 팔로 알토는 모든 기술들이 창시된 곳이라는 신화적인 장소와 같았다. 그래서 나는 그것을 확인하고 싶었다.
+
+루치 상비: 나는 페이스북이 베이지역으로 이사했다는걸 듣고 꽤나 놀랐다, 나는 그들이 여전히 하버드 기숙사 바깥쪽에서 일하고 있는 줄 알았기 때문이다.
+
+Ezra Callahan: Summer of 2004 is when that fateful series of events took place: that legendary story of Sean running into the Facebook cofounders on the street, having met them a couple months earlier on the East Coast. That meeting happened a week after we all moved out of the house we had been living in together. Sean was crashing with his girlfriend’s parents.
 
 
 
