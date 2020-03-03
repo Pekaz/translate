@@ -144,7 +144,41 @@ https://www.wired.com/story/sex-beer-and-coding-inside-facebooks-wild-early-days
 
 루치 상비: 나는 페이스북이 베이지역으로 이사했다는걸 듣고 꽤나 놀랐다, 나는 그들이 여전히 하버드 기숙사 바깥쪽에서 일하고 있는 줄 알았기 때문이다.
 
-Ezra Callahan: Summer of 2004 is when that fateful series of events took place: that legendary story of Sean running into the Facebook cofounders on the street, having met them a couple months earlier on the East Coast. That meeting happened a week after we all moved out of the house we had been living in together. Sean was crashing with his girlfriend’s parents.
+애즈라 캘러한: 2004년 여름은 그 운명적인 일련의 사건들이 일어났을 때 이다. 그 전설적인 이야기는 숀이 페이스북 코파운더가 길거리에서 만나기 몇달 전 이스트 코스트 
+지역에서 일어납니다. 그 미팅은 우리가 같이 산 집에서 떠난지 일주일 후에 일어 났습니다. 숀은 그의 여자친구 부모님과 갈등이 있었습니다.
+
+숀 파커: 내가 집 밖으로 걸어 나왔을 때 후드를 입은 몇몇의 애들로 이루어진 무리가 나에게 걸어왔다. 그들은 마치 담배피고 말썽피우는 고등학생처럼 보였는데, 그때 내 
+이름을 부르는 소리가 들렸다. 나는 오, 이런 우연이 있나 싶었을 때 내 이름을 부르는걸 다시 들었고 뒤돌아 섰다. 그들은 "숀 여기서 뭐해?" 라고 했다.
+
+나는 무슨일이 일어나는지 이해하는데 30초가량 걸렸다. 그리고 마침내 그들이 마크와 더스틴 그리고 몇몇 사람들이라는걸 깨닳았다. 그래서 나는 "너네야 말로 여기서 뭐해?" 
+라고 하였고 그들은 "우리 여기 살아." 라고 하였다. 그리고 나는 "엥, 나도 여기 살아!" 라고 하였고 진짜 신기한 일이었다.
+
+애론 시틱: 나는 숀으로부터 전화를 받았고 그는 나에게 이렇게 말했다, "이봐, 방금 무슨일이 일어났는지 넌 믿지 못할거야." 그리고 그는 "너는 당장 이리로 와서 여깃는 
+애들을 만나봐야해. 방금 막 떠났어. 당장 돌아와서 이들을 만나봐!"
+
+숀 파커: 그리고 나는 심지어 거기서 무슨일이 일어난줄도 모르겠고 그 집에 가서 노는게 매우 편해졌다는것 밖에는 없었다. 그건 심지어 특별히 형식적인 관계도 아니었다.
+
+애론 시틱: 그래서 나는 거기에 가서 그들을 만나보았고, 그들이 그룹에 어떻게 집중하는지 보고 매우 인상깊었다. 그들은 때때로 휴식을 취하면서 그들의 일을 했지만,
+대부분의 시간동안은 부엌 테이블에 앉아 그들의 랩탑을 열어놓고 보냈다. 나는 그들의 장소에 1주일에 두세번씩 갔는데 갈때마다 내가 볼 수 있었던 장면은 부엌 테이블에 
+둘러 앉아 계속 일하면서 그들의 제품을 성장시키는 작업뿐 이었다.
+
+마크가 원했던것은 그들의 제품을 더 낫게 만들거나 그들의 제품을 더 낫게 만들기 위해 충분한 에너지를 얻을 수 있도록 쉴 수 있는것이 전부였다. 그들은 영화를 보러 갈 때 
+말고는 절대 집을 나서지 않았다.
+
+애즈라 캘러한: 회사의 초기 문화는 매우 매우 느슨했다. 그것은 마치 통제할 수 없는 엄청난 잠재력을 가진 사업 같이 느껴졌다. 신입생이 기숙사에서 사업을 운영한다고 상상해봐라 
+그게 진짜 그런 느낌이었다.
+
+마크 주커버그: 대부분의 사업들은 꼬맹이들이 한 집에 같이 살며 그들이 하고 싶은걸 하고 일반적인 시간에 일어나지 않으며 사무실에 가지 않고 사람을 고용하지도 않고 
+집에 데려와서 쉬면서 담배피고 파티하고 그러진 않는다.
+
+애즈라 캘러한: 거실은 모니터와 워크스테이션이 어디나 널려있었고 곧바로 볼 수 있는 위치에 있는 화이트보드가 놓인 사무실 이었다.
+
+그때 당시 마크 주커버그는 파일공유에 사로잡혀있었고, 그의 실리콘밸리 원대한 여름 계획은 냅스터를 부활시키는 거였다. 그것은 다시 한번 부활했지만 이번엔 페이스북 내의 
+기능 으로써 였다. 주커버그의 펫 프로젝트 이름은 Wirehog 였다.
+
+Aaron Sittig: Wirehog was the secret feature that Mark had promised was going to change everything. Mark had gotten convinced that what would make Facebook really popular and just sort of cement its position at schools was a way to send files around to other people—mostly just to trade music.
+
+
 
 
 
