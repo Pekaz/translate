@@ -176,7 +176,33 @@ https://www.wired.com/story/sex-beer-and-coding-inside-facebooks-wild-early-days
 그때 당시 마크 주커버그는 파일공유에 사로잡혀있었고, 그의 실리콘밸리 원대한 여름 계획은 냅스터를 부활시키는 거였다. 그것은 다시 한번 부활했지만 이번엔 페이스북 내의 
 기능 으로써 였다. 주커버그의 펫 프로젝트 이름은 Wirehog 였다.
 
-Aaron Sittig: Wirehog was the secret feature that Mark had promised was going to change everything. Mark had gotten convinced that what would make Facebook really popular and just sort of cement its position at schools was a way to send files around to other people—mostly just to trade music.
+애론 시틱: Wirehog는 마크가 약속했던 모든것을 바꾸는 비밀 기능이었다. 마크는 페이스북을 진짜로 유명하게 만들어 주고 학교들에서 페이스북의 위치를 확고하게 해줄 것은 
+주변사람들과 파일(대부분 음악파일)을 주고받는 것이라고 확신했다.
+
+마크 핀커스: 그들은 이 작은 기능을 냅스터처럼 만들었다. 너는 다른 누군가의 컴퓨터에 어떤 음악파일이 있는지 볼수 있다.
+
+애즈라 캘러한: 그 때는 냅스터가 불특정 개인들과 파일을 공유하는걸 고소하는 엔터테인먼트 업계와 법원들로부터 철저히 당하고 있는 시기였다. 야생의 서부시대는 명백히 
+끝나가고 있었다.
+
+애론 시틱: Wirehog가 페이스북 페이지에 사진공유조차 없을 때 일어났던 해프닝이라는걸 기억하는것이 중요하다. Wirehog는 다른 사람들과 사진공유 하는 것의 해결책이 되었다. 
+너는 너의 프로필에 박스를 한개 가지고 있고 사람들은 그곳에 가서 너가 공유한 사진, 공유한 파일들에 접근할 수 있었다. 그것은 오디오파일 일수도 있고, 비디오파일 일수도 있었고,
+그들의 휴가 사진일수도 있다.
+
+애즈라 캘러한: 그러나 그것은 결국 파일 공유 서비스일 뿐이다. 내가 페이스북에 합류했을 때 대부분의 사람들은 우리가 미처 생각지 못한 Wirehog의 새로운 용도가 
+나오지 않는한 그것은 결국 부채일 뿐이라고 생각했다. "어짜피 언젠간 고소 당할텐데 뭐가 중요해?" 그게 그때의 기조였다.
+
+마크 핀커스: 나는 숀이 왜 음악서비스 근처로 다시 가는지 궁금했다.
+
+애론 시틱: 내가 이해한것은 몇몇 페이스북의 변호사들은 그것이 좋지 않은 생각이라고 조언했다. 그리고 페이스북의 유저가 굉장히 빠르게 성장하면서 Wirehog 프로젝트에 대한 
+작업은 말하자면 버려졌다.
+
+애즈라 캘러한: 그들은 가입하게 해달라는 말도 안되는 요구를 했다. 그것은 아직 100여군대의 학교에 불과했지만 대학생이라면 누구나 이미 전국의 모든 학교를 통해 이미 
+이것에 대해 들어봤다. 사용량 또한 이미 미쳤다. 화이트보드에 적혀있던건 전부 다음은 어떤 학교에 런칭할지에 관련된 것이었다. 문제는 딱 하나였다. 단순하게 말해
+"어떻게 확장할 수 있을까?" 였다.
+
+Aaron Sittig: Facebook would launch at a school, and within one day they would have 70 percent of undergrads signed up. At the time, nothing had ever grown as fast as Facebook.
+
+
 
 
 
