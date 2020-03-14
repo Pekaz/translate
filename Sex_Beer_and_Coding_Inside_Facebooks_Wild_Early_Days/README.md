@@ -426,7 +426,22 @@ HTML관련된걸 하고 있었다. 그들은 아침느지막이 등장했다. �
 애즈라 캘러한: 지금까지 가장 큰 성장 메커니즘은 사진 태깅이었다. 그것은 다른 모든 나머지 제품들의 모습도 결정했다. 이것은 사람들이 페이스북을 어떻게 사용하는지에 
 대한 근본적인 변화였고 페이스북의 변화와 뉴스피드에 대한 생각이 싹드기 시작하는 변화의 순간이었으며 대학을 넘어서 어떻게 확장되는지에 대한 이유였다.
 
-Jeff Rothschild: The News Feed project was started in the fall of 2005 and delivered in the fall of 2006.
+제프 로스차일드: 뉴스피드프로젝트는 2005년 가을에 시작되어서 2006년 오픈했다.
+
+더스틴 모스코비츠: 뉴스피드는 바이럴 분포 개념의 모습을 하고 있다.
+
+애즈라 캘러한: 뉴스피드는 오늘날의 페이스북의 근본이었다.
+
+숀 파커: 원래 그것은 "What's New,"라고 불렸다. 그리고 그건 단지 상태 업데이트나 프로필 변경등 네트워크에서 일어나는 모든것을 모아논 것 뿐이었다.
+
+케이티 제민더: 그것은 우리가 무슨 일이 일어나는지 너에게 모든걸 보여줄 수 없었기 때문에 몇몇 로직이 들어간 모든 이야기의 집합체였다. 거기엔 너가 한 것과 그 외 너의 
+네트워크들이 한 일들을 보여주는 두 개의 스트림이 있었다. 
+
+Ezra Callahan: So News Feed is the first time where now your homepage, rather than being static and boring and useless, is now going to be this constantly updating “newspaper,” so to speak, of stuff happening on Facebook around you that we think you’ll care about.
+
+
+
+
 
 
 
