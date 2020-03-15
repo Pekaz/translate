@@ -437,7 +437,26 @@ HTML관련된걸 하고 있었다. 그들은 아침느지막이 등장했다. �
 케이티 제민더: 그것은 우리가 무슨 일이 일어나는지 너에게 모든걸 보여줄 수 없었기 때문에 몇몇 로직이 들어간 모든 이야기의 집합체였다. 거기엔 너가 한 것과 그 외 너의 
 네트워크들이 한 일들을 보여주는 두 개의 스트림이 있었다. 
 
-Ezra Callahan: So News Feed is the first time where now your homepage, rather than being static and boring and useless, is now going to be this constantly updating “newspaper,” so to speak, of stuff happening on Facebook around you that we think you’ll care about.
+애즈라 캘러한: 그래서 뉴스피드는 이제 너에게 홈페이지란 정적이고 쓸모없는게 아니라, 너 주변이나 우리가 생각하기에 너가 신경쓰는 것들에 대해 지속적으로 업데이트 되는 
+"신문" 같은 것이다.
+
+루치 상비: 그리고 이것은 환상적인 아이디어였다. 왜냐하면 일반적으로 너가 생각하기에 신문이라면 그들이 말하고 싶은것 인쇄하고 싶은것이 있고 전날 밤에 그게 결정 된 다음 
+이것을 수백면 수천명의 사람에게 보내는 편집부가 있다. 그러나 페이스북에서 우리는 1000만개의 서로 다른 신문을 만든다. 왜냐하면 개개인마다 개인화된 버전을 가지고 
+있기 때문이다. 
+
+애즈라 캘러한: 이건 정말 최초의 기념비적인 제품 공학적인 업적이었다. 이 모든 변화와 이를 개개인에게 전파하는 방식에 있어서 처리해야하는 데이터의 양적인 면이서 말이다.
+
+루치 상비: 우리는 그것에 대해 1년반이나 열심히 연구했다.
+
+애즈라 캘러한: ... 그리고 당신이 가장 신경쓰는걸 어떻게 표면으로 가져올지 이 모든것에 대한 지적인 부분은 공학적으로 매우 풀기 어려운 문제였다.
+
+루치 상비: 이걸 깨닳기 전에 우리는 그 시점 소프트웨어에서 가장 큰 분산 시스템을 구축 완료 하였다. 꽤나 최신식이었다.
+
+애즈라 캘러한: 우리는 사내버전으로 이게 있었고 몇주동안 그걸 가지고 놀았다. 정말 드문 일이다.
+
+Katie Geminder: So I remember being like, “OK, you guys, we have to do some level of user research,” and I finally convinced Zuck that
+
+
 
 
 
