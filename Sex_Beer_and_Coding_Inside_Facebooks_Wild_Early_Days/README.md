@@ -474,7 +474,29 @@ HTML관련된걸 하고 있었다. 그들은 아침느지막이 등장했다. �
 꽤나 무례했다. 내가 그 스크린샷이라도 있었으면 좋겠다. 진짜! 아무튼 그랬다. 너가 페이스북에 들어오고 이 기능을 보았다. 우리는 너에게 선택의 여지도 주지 않았고 
 훌륭한 설명도 없었으며 사람들을 그저 겁먹게 했다.
 
-Jeff Rothschild: People were rattled because it just seemed like it was exposing information that hadn’t been visible before. In fact, that wasn’t the case. Everything shown in News Feed was something people put on the site that would have been visible to everyone if they had gone and visited that profile.
+제프 로스차일드: 사람들은 이전에는 볼 수 없었던 정보를 노출시키는 것 같이 보여서 난처해했다. 그러나 그것은 사실이 아니었다. 뉴스피드에서 보여지는 모든건 사람들이 
+그 사람의 프로필에 방문한다면 모두에게 보여지도록 올려논 것들이었다. 
+
+루치 상비: 사용자들은 반발했다. 그들은 제품을 보이콧할거라고 협박했다. 사람들은 그들이 권리를 침해당했고 그들의 사생활이 침해당했다고 느꼈다. 몇몇 학생들은 법원에 
+진정서를 넣으려고 연합하기도 했다. 사람들은 사무실 밖에 줄서있었고 우리는 보안요원을 고용해야했다.
+
+케이티 제민더: 사무실 밖에 카메라맨들이 있었다. 그들은 "예전의 페이스북을 돌려내라!" 라고 시위했고 모두가 싫어했다.
+
+제프 로스차일드: 그 행동은 꽤나 격렬했다. 사무실로 행진하는 사람들도 있었다. 뉴스피드를 반대하는 페이스북 그룹이 조직되었고 이틀만에 백만명이 가입했다.
+
+루치 상비: 그룹에 있던 몇몇 사람들은 "루치는 악마다"라고 했다. 왜냐면 내가 블로그에 글을 썼기 때문이다.
+
+맥스 캘리: 유저로부터 시작된 싸움은 매일 우리를 때리고 고객서비스를 때렸다. 그리고 우리는 "이건 망했어! 최악이야!" 라고 했다.
+
+애즈라 캘러한: 우리는 지인이나 친구로부터 이메일을 받았다. 그들은 "무슨짓을 한거야? 이건 끔찍해! 되돌려놔!" 라고 했다.
+
+케이티 제민더: 우리는 사무실에 앉아서 밖에있는 시위대들을 보면서 "우리 이거 롤백해야하나? 롤백해야하나?"라고 하고 있었다.
+
+루치 상비: 이제 평소의 상황에서 10%의 사용자가 제품을 보이콧 하기 시작하면 우리는 이걸 그만두려고 했다. 근데 우리는 매우 특이한 패턴이 일어나는걸 보았다.
+
+맥스 캘리: 우리가 유저들의 사용 흐름을 보니 우리에게 이게 끔찍하다고 말했던 사람들 조차 미친 계속 쓰고있잖아! 이게 도대체 무슨상황이야?
+
+Ruchi Sanghvi: Despite the fact that there were these revolts and these petitions and people were lined up outside the office, they were digging the product. They were actually using it, and they were using it twice as much as before News Feed.
 
 
 
