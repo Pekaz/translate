@@ -535,7 +535,26 @@ HTML관련된걸 하고 있었다. 그들은 아침느지막이 등장했다. �
 
 마크 주커버그: 지배!!
 
-Max Kelly: I especially remember the meeting where we tore up the Yahoo offer.
+맥스 캘리: 나는 특히 야후의 제안을 거절했던 그 미팅이 기억난다.
+
+마크 핀커스: 2006년에 야후는 페이스북에게 12억달러를 제안했다. 나는 그때당시 이건 숨막히는 제안이고 이걸 받아들이지 않는건 상상하기 어려웠다. 냅스터의 불이 꺼지고, 
+프랜드스터의 불이 꺼지고 마이스페이스의 불이 꺼졌을때 이 회사들이 수익이 없는 회사가 되었는데 믿을만한 회사가 10억 하고도 2억달러를 더 제안했을때 누가 안된다고 하겠나? 
+너는 이런 제안에 대해 안된다고 말한 설립자를 굉장히 존경해야 한다.
+
+더스틴 모스코비츠: 나는 야후가 우리 제품을 산다면 큰 타격을 입을거라고 확신했다. 그리고 숀은 나에게 90%의 합병은 실패로 끝난다고 얘기해주었다.
+
+마크 핀커스: 운이 좋게도, 주커버그와 역사를 위해 야후의 주가는 하락했고 그들은 제안을 바꾸지 못했다. 그들은 고정된 수량의 주식을 제안했는데 주가의 하락으로 제안은 
+약 8억달러 정도까지 떨어졌다. 그리고 내가 생각하기에 아마 주커버그는 감정적으로 그걸 하고 싶지 않아했고 이건 그에게 확신을 주었다. 만약 야후가 "문제 없어 우리가 
+12억보다 더 많은 현금과 주식을 가지고 돌아올게"라고 했다면 그건 주커버그가 "안돼"라고 말하기 더 힘들었을 것이고 오늘날 페이스북은 야후의 작은 부서가 되었을 수도 있다.
+
+맥스 캘리: 우리는 말 그대로 야후의 제안을 찢어버리고 회사로써 그걸 딛고 섯다. "엿먹으라지 우리가 걔들을 사버릴꺼야!" 그건 무슨 악담같은 헛소리 였다.
+
+마크 주커버그: 지배!!!
+
+Kate Losse: He had kind of an ironic way of saying it. It wasn’t a totally flat, scary “domination.” It was funny. It’s only when you think about a much bigger scale of things that you’re like, Hmmmm: Are people aware that their interactions are being architected by a group of people who have a certain set of ideas about how the world works and what’s good?
+
+
+
 
 
 
